@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.entrepreneur.com/article/248763'
 title: What Growing Up Broke in a Rich Neighborhood Taught Me About Business
-datePublished: '2015-12-19T15:16:56.190Z'
-dateModified: '2015-12-19T15:12:30.856Z'
+datePublished: '2015-12-19T15:24:40.308Z'
+dateModified: '2015-12-19T15:16:56.190Z'
 sourcePath: _posts/2015-12-19-what-growing-up-broke-in-a-rich-neighborhood-taught-me-about.md
 published: true
 inFeed: true
