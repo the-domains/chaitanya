@@ -1,0 +1,28 @@
+name: Chaitanya
+favicon: null
+layout_spectrum: 0.24512895685620606
+typography_spectrum: 0.28605948644690216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.17910836031660438
+  lightness: 0.9141427979338914
+  saturation: 0.1081221119966358
+  rhythmicContrast: 0.721887395484373
+purpose: []
