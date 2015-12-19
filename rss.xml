@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Welcome]]></title>
         <description><![CDATA[Welcome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://chaitanyasharma.in/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 15:17:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 15:24:55 GMT</lastBuildDate>
+        <atom:link href="http://chaitanyasharma.in/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What Growing Up Broke in a Rich Neighborhood Taught Me About Business]]></title>
-            <description><![CDATA[<article><h1>What Growing Up Broke in a Rich Neighborhood Taught Me About Business</h1><p>I grew up in a single-mother household, like the other one of four of you out there. I also grew up in a very nice neighborhood called Westlake Village, which is north of Los Angeles and is a close neighbor to Calabasas. (Thanks to the Kardashians, many people know Calabasas these days.)</p><img src="https://assets.entrepreneur.com/content/3x2/822/20150723202348-top-ramen-noodles-maruchan.jpeg"></article>]]></description>
+            <description><![CDATA[<article><h1>What Growing Up Broke in a Rich Neighborhood Taught Me About Business</h1><p>I grew up in a single-mother household, like the other one of four of you out there. I also grew up in a very nice neighborhood called Westlake Village, which is north of Los Angeles and is a close neighbor to Calabasas. (Thanks to the Kardashians, many people know Calabasas these days.)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4ecbbf0d115a12bbe9830d9c09c1e4e1ccff520.jpg"></article>]]></description>
             <link>http://www.entrepreneur.com/article/248763</link>
             <guid isPermaLink="false">ea5cfa12-a710-4153-836d-50f1eb9d145c</guid>
-            <pubDate>Sat, 19 Dec 2015 15:16:56 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 15:24:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
